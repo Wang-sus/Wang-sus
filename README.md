@@ -3,9 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=Wang-sus&style=for-the-badge">
 </a>
 <br/>
-<details>
-  <summary>real</summary>
-<!--START_SECTION:real-->
-:hurtrealbad:
-<!--END_SECTION:real-->
-</details>
+
+## Stats 😎
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Wang-sus&show_icons=true&hide_title=true)](https://github.com/richardletshacks)
